@@ -7,7 +7,7 @@
 - I'm Sameer Jadav, a student currently living in Gujrat, India.
 - I am currently learning frontend web development.
 - I am interested in AI and plan to learn more about it in the future.
-- Please see my [resume](link) for an internship or a new job opportunity.
+- Please see my [resume](https://drive.google.com/file/d/1UlOssOTmjvuPLi-lanZtdn47v2KkStsr/view?usp=sharing) for an internship or a new job opportunity.
 
 <h3>My Skills </h3>
 
