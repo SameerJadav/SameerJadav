@@ -2,26 +2,17 @@
   <b>Hello, there!</b>
 </h1>
 
-<h3>About Me</h3>
+### About Me
 
-- I'm Sameer Jadav, a student currently living in Gujrat, India.
-- I am currently learning frontend web development.
-- I am interested in AI and plan to learn more about it in the future.
-- Please see my [resume](https://drive.google.com/file/d/1UlOssOTmjvuPLi-lanZtdn47v2KkStsr/view?usp=sharing) for an internship or a new job opportunity.
+- I'm Sameer Jadav, a student from Gujrat, India.
+- I am currently learning frontend web development and have a strong interest in AI.
+- Please check out my [resume](https://drive.google.com/file/d/1UlOssOTmjvuPLi-lanZtdn47v2KkStsr/view?usp=sharing) if you are interested in offering me an internship or job opportunity.
 
-<h3>My Skills </h3>
+### My Sills
 
-<p>
-<div>
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](https://skillicons.dev)
 
-<h3>Contact Me</h3>
+### Contact Me
 
-<div class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sameer-jadav-6807a6258"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SameerJadav_"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SameerJadav_)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sameer-jadav/)
