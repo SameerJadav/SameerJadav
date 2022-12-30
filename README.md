@@ -8,7 +8,7 @@
 
 ### My Sills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](/)
 
 ### Contact Me
 
