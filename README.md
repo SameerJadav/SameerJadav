@@ -1,6 +1,4 @@
-<h1 align="center">
-  <b>Hello, there!</b>
-</h1>
+<h1 align="center">Hello, there!</h1>
 
 ### About Me
 
@@ -10,7 +8,7 @@
 
 ### My Sills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](#)
 
 ### Contact Me
 
