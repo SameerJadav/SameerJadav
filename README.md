@@ -8,7 +8,7 @@
 
 ### My Sills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](https://github.com/SameerJadav)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,sass)](#)
 
 ### Contact Me
 
