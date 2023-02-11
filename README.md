@@ -16,7 +16,6 @@ I'm currently learning frontend web development and am super interested in AI. I
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 
