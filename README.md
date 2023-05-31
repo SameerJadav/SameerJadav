@@ -8,6 +8,7 @@ I'm a frontend developer with a passion for learning and building awesome projec
 [![My Skills](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=threejs&theme=dark)](https://threejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
 
@@ -15,3 +16,4 @@ I'm a frontend developer with a passion for learning and building awesome projec
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sameer-jadav)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://www.twitter.com/SameerJadav_)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/sameerjadav._)
