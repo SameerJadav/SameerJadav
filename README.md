@@ -4,7 +4,7 @@ I am a web developer. I build web apps using Next.js and Typescript. If you're i
 
 ## Current Projects
 
-**[webApp](https://github.com/SameerJadav/webapp)** - This project is your go-to guide for building modern web apps. This app is a work in progress. I'm building this in public. All contributions are welcome. You can follow the progress on Twitter [@SameerJadav\_](https://twitter.com/SameerJadav_).
+**[ModWeb](https://github.com/SameerJadav/modweb)** - This project is your go-to guide for building modern web apps. This app is a work in progress. I'm building this in public. All contributions are welcome. You can follow the progress on Twitter [@SameerJadav\_](https://twitter.com/SameerJadav_).
 
 ### Connect with me
 
