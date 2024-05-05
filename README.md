@@ -1,6 +1,6 @@
 # Hi there, I'm Sameer
 
-I am a 20-year-old JavaScript/TypeScript developer who specializes in building performant, scalable, and accessible applications using Next.js and serverless technologies. I am also exploring Svelte to gain experience with different frameworks. Open-source contributions are a significant part of my work, as I've contributed to several open source projects and all of my projects are open-source. Additionally, I write blogs to share my knowledge, enhance my writing skills and become more articulate.
+I'm a self-taught developer living in India. I enjoy all kinds of programming and am currently learning Go, while also working on improving my understanding of core computer science concepts and DSA. I tend to work on projects that solve problems I face or help me learn new things.
 
 I'm currently looking for a new role as a developer. Hire me?
 
