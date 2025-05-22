@@ -4,4 +4,4 @@ I'm a self-taught developer living in India. I enjoy all kinds of programming an
 
 I'm currently looking for a new role as a developer. Hire me?
 
-[Portfolio](https://sameerjadav.me) | [LinkedIn](https://www.linkedin.com/in/sameerjadav) | [Twitter](https://www.twitter.com/SameerJadav_) | [Mail](mailto:sameerjadav001@gmail.com)
+[Portfolio](https://sameerjadav.vercel.app) | [LinkedIn](https://www.linkedin.com/in/sameerjadav) | [X (Twitter)](https://www.twitter.com/SameerJadav_) | [Mail](mailto:sameerjadav001@gmail.com)
